@@ -30,9 +30,8 @@ I'm a passionate **programmer and web developer** with experience in **C++, Pyth
 
 ## 📫 Let's Connect  
 - **GitHub:** [Zedai00](https://github.com/Zedai00)  
-- **LinkedIn:** [Your LinkedIn Link]  
+- **LinkedIn:** [Zedai00](https://www.linkedin.com/in/zedai00/)  
 
 ---
 
 💡 *Always exploring new ideas and technologies!* 🚀  
-
